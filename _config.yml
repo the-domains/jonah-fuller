@@ -1,7 +1,7 @@
 name: Jonah Fuller
 favicon: null
-layout_spectrum: 0.15960551635362208
-typography_spectrum: 0.4758118283934891
+layout_spectrum: 1
+typography_spectrum: 0.72987
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3298653441015631
-  lightness: 0.7467164779081941
-  saturation: 0.6160193821415305
-  rhythmicContrast: 0.6059427105356008
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
