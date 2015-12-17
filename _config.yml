@@ -1,7 +1,7 @@
 name: Jonah Fuller
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49628
+layout_spectrum: 0.25406
+typography_spectrum: 0.73349
 title: Things
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1e1e20'
-    - '#dc3522'
-    - '#374140'
-    - '#d9cb9e'
-    - '#6d6e73'
+    - '#fcfff6'
+    - '#183440'
+    - '#3f606f'
+    - '#92aa9d'
+    - '#d1dcbe'
   brandStrength: 0.1875
   lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
