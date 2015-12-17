@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jonah Fuller]]></title>
-        <description><![CDATA[Jonah Fuller]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Things]]></title>
+        <description><![CDATA[Things]]></description>
+        <link>https://thegrid.ai/jonah-fuller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 23:33:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 00:00:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonah-fuller/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dust]]></title>
+            <description><![CDATA[<article><h1>The Dust</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68def3e58bbb4ea00e8061de999bf3db3007e34f.gif"></article>]]></description>
+            <link>http://49.media.tumblr.com/b49ecfac04048896165a3d9dc9d0004f/tumblr_ntieh8m9JU1srt5sxo1_500.gif</link>
+            <guid isPermaLink="false">029c50fd-9066-44a4-810c-cf5f9c133d8b</guid>
+            <pubDate>Thu, 17 Dec 2015 00:00:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Come walk with me]]></title>
             <description><![CDATA[<article><h1>Come walk with me</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b43ee6416ec9ea5be7d17907cd8f64ba7c82f53.jpg"></article>]]></description>
